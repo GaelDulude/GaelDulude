@@ -1,10 +1,10 @@
 ## Hi there 👋
 Cytometry In R
 
-Location: Baltimore, Maryland, USA
+Location: Montreal,Quebec,Canada
 
-My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
+My Favorite Fluorophore/Metal-Isotope: PE-Cy5 (Cy-Chrome)
 
-Previous Coding Experience: Repeatedly Calling IT
+Previous Coding Experience: Doing my best... 
 
-What I Hope to Get From This Course: A faster way to match FlowSOM clusters to their likely cell type.
+What I Hope to Get From This Course: A way to, at the very least, understand what students are trying to achieve and maybe, who knows, help them.
